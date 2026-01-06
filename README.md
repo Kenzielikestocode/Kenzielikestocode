@@ -1,10 +1,10 @@
 ## Heyyy 👋
-I'm Mackenzie, a Software Engineering student located in Louisiana. 
-I am completing the second semester of my sophomore year at LSU.
-I love to learn new languages and applications to better understand which ones I like and gravitate more towards. Udemy has a lot of engaging classes I've been using.
-Participating in the GeauxHack 2025 at LSU has furthered my journey in developing, especially since we got 2nd place :).
+- I'm Mackenzie, a Software Engineering student located in Louisiana. 
+- I am completing the second semester of my sophomore year at LSU.
+- I love to learn new languages and applications to better understand which ones I like and gravitate more towards. Udemy has a lot of engaging classes I've been using.
+- Participating in the GeauxHack 2025 at LSU has furthered my journey in developing, especially since we got 2nd place :).
 
-🌱 I’m currently learning Python and HTML
+- 🌱 I’m currently learning Python and HTML
 
 
 <!--
